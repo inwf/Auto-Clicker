@@ -1,4 +1,11 @@
-﻿#Persistent
+;**************************************************************
+; Version    : 1.0.0
+; Author     : INWF
+; Created    : 2023.11.25
+; File       : Auto Clicker.ahk
+;**************************************************************
+
+#Persistent
 SetBatchLines, -1
 clicking := false
 
